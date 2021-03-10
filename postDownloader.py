@@ -5,7 +5,7 @@ import time
 import json
 import sys
 
-username = ""  # put the username you want to download in the quotes
+username = "jobo154"  # put the username you want to download in the quotes
 subreddit = ""  # put the subreddit you want to download in the quotes
 # leave either one blank to download an entire user's or subreddit's history
 # or fill in both to download a specific users history from a specific subreddit
